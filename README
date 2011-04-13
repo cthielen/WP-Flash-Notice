@@ -1,2 +1,1 @@
-WP Flash Notice provides a simple injection of HTML into the header on WordPress templates, allowing one to insert temporary notices into their templates. The notices can run for a certain number of days or until disabled.
-
+WP Flash Notice provides a simple injection of HTML into the header on WordPress templates, allowing one to insert temporary notices into their templates.
